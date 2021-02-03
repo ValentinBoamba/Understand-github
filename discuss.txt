@@ -1,3 +1,4 @@
 The first thing to understand is that git and github two different things.
 GIT is a version control software.
-Github is a web service
+Github is a web service.
+Repository and commit terms.
