@@ -5,3 +5,5 @@ Repository and commit terms.
 commit in the master branch.
 rainbow and the unicorn.
 horse and mouse
+adding animals: tiger , elephant
+
