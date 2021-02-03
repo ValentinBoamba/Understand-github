@@ -1,0 +1,2 @@
+The first thing to understand is that git and github two different things.
+GIT is a version control software.
