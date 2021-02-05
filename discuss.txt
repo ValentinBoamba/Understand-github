@@ -8,3 +8,4 @@ horse and mouse
 adding animals: tiger , elephant
 adding fork but i look for the user then i clicked the project repo and fork
 put recycle day
+put tuesday
